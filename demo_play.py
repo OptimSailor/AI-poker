@@ -1,3 +1,4 @@
+#xinshichengdawang666
 import sys
 # if 'threading' in sys.modules:
 #     raise Exception('threading module loadded before patching!')
